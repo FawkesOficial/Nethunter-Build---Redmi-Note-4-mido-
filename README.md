@@ -13,7 +13,7 @@ If you have any questions, feel free to open an Issue or contact me on Twitter [
 ## Instalation Steps:
 These instalation steps are based [on this post](https://forum.xda-developers.com/t/kernel-nethunter-oreo-for-mido.3768887/post-77992244) from the [Kernel's XDA thread](https://forum.xda-developers.com/t/kernel-nethunter-oreo-for-mido.3768887/).
 
-1. Boot into Recovery mode. (*I used OrangeFox. More on that later.*)
+1. Boot into Recovery mode. (*I used OrangeFox Recovery. More on that later.*)
 2. Wipe everything. (*Apart from usb-otg and micro-sd. You might not need to do this but I totaly recomend you to do so*)
 3. Flash an Android **8.1.0, non-treble** ROM (*Example: Liquid Remix 9.0.8*)
 4. Flash Magisk.
@@ -56,6 +56,13 @@ Fix: Unfortunately, as of 01/04/2021, the NetHunter App's DuckHunter HID Convert
 Because of this I've made two repositories to attempt to fix this.\
 I recomend you use this one [FawkesOficial/duckhunter](https://github.com/FawkesOficial/duckhunter) wich is a fork of the original DuckHunter repo by @byt3bl33d3r\
 \* *Run it from the Kali shell!*
+
+### Recovery Choice and a short story on a problem I had while switching ROMs on Redmi Note 4:
+A while ago I tried installing Nethunter for the first time but was unsuccessful.\
+Back then, when there was no custom Kernel for *mido*, the easiest method that I found was a video on YouTube whose only instalation steps where: Flash Lazyflasher 🡒 Flash a modified Lineage OS 14.1 ROM 🡒 Flash SuperSU and that was it.\
+While the root was working fine, the external wifi card and hid support was not.\
+So I tried other methods and along many other changes that I made back then, for some reason I messed up my **/persist** partition wich made me loose my Wifi, Bluetooth and Fingerprint features. A clear sign that this might have happend to you is: if you go to your android settings and lookup your macaddress, it should be something like: "02:00:00:00:00:00".\
+To fix this, I installed OrangeFox Recovery, wich by the time I'm writing this, was the only recovery that supported flashing a custom *persist.img* to then fix **/persist**.
 
 ## Downloads:
 - Recovery: [OrangeFox-mido-stable@R11.0](https://orangefox.download/device/mido)
