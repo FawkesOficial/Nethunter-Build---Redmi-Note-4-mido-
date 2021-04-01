@@ -45,7 +45,7 @@ Fix: Open NetHunter Terminal 🡒 Select: Kali 🡒 Run: `apt-get update && apt-
 
 #### DeAuth 🡒 'SCAN NETWORKS' not showing any output + Possibly other modules not working:
 Fix: Download the latest 'nh_files' folder from https://gitlab.com/kalilinux/nethunter/apps/kali-nethunter-app/-/tree/master/assets/nh_files
-<img src="https://user-images.githubusercontent.com/45067011/113225936-d7e03480-9286-11eb-9d17-5ba12b5ba283.png" width="600" height="280"/>
+<img src="https://user-images.githubusercontent.com/45067011/113225936-d7e03480-9286-11eb-9d17-5ba12b5ba283.png" width="600" height="280"/>\
 🡒 Open your desired file explorer 🡒 Internal Storage 🡒 Replace the 'nh_files' folder with the one you downloaded and extracted from the website.\
 \* *For extracting .zip and .rar files you can install 'RAR' app from Google Play Store*
 
