@@ -55,7 +55,7 @@ Because of this I've made two repositories to attempt to fix this.\
 I recomend you use this one [FawkesOficial/duckhunter](https://github.com/FawkesOficial/duckhunter) wich is a fork of the original DuckHunter repo by @byt3bl33d3r\
 \* *Run it from the Kali shell!*
 
-## Original Downloads:
+## Downloads:
 - Recovery: [OrangeFox-mido-stable@R11.0](https://orangefox.download/device/mido)
 - ROM: [Liquid Remix-9.0.8-20180317-Official_Nikhil-mido](https://androidfilehost.com/?fid=962187416754468620)
 - Kernel: [kernel-nethunter-oreo-for-mido](https://forum.xda-developers.com/t/kernel-nethunter-oreo-for-mido.3768887/)
@@ -63,3 +63,4 @@ I recomend you use this one [FawkesOficial/duckhunter](https://github.com/Fawkes
 - GApps: ARM64 --> 8.1 --> pico - [Download Page](https://opengapps.org/)
 - [Nethunter Store](https://store.nethunter.com)
 - ['nh_files' folder](https://gitlab.com/kalilinux/nethunter/apps/kali-nethunter-app/-/tree/master/assets/nh_files)
+#### If any of these links gets outdated, and you can't find them anywhere else, and you really want these specific files, I might still have a copy of them saved arround. In wich case, open an Issue report here or contact me trough Twitter([@FawkesOficial](https://twitter.com/FawkesOficial)) 
