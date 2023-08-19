@@ -67,7 +67,7 @@ To fix this, I installed OrangeFox Recovery, wich by the time I'm writing this, 
 ## Downloads:
 - Recovery: [OrangeFox-mido-stable@R11.0](https://orangefox.download/device/mido)
 - ROM: [Liquid Remix-9.0.8-20180317-Official_Nikhil-mido](https://androidfilehost.com/?fid=962187416754468620)
-- Kernel: [kernel-nethunter-oreo-for-mido](https://forum.xda-developers.com/t/kernel-nethunter-oreo-for-mido.3768887/)
+- Kernel: [kernel-nethunter-oreo-for-mido](https://drive.google.com/file/d/10iV4EOiKHgeckhJAMj__xD3R2sn6t3DI/view?usp=sharing)
 - Magisk: Magisk-v22.0 - [Download Latest](https://magiskmanager.com/downloading-magisk-manager)
 - GApps: ARM64 --> 8.1 --> pico - [Download Page](https://opengapps.org/)
 - [Nethunter Store](https://store.nethunter.com)
